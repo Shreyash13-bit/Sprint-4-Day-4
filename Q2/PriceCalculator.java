@@ -6,6 +6,6 @@ public class PriceCalculator {
     }
 
     private int calculateTax(int amount) {
-        return (int)(amount * 0.2); // heavy operation in real life
+        return (int)(amount * 0.2);
     }
 }
