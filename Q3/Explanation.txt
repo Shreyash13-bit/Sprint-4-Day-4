@@ -1,5 +1,0 @@
-This Spring Boot project shows how to test a REST controller using @WebMvcTest.
-- It mocks the BookService to isolate controller logic.
-- Tests for 200 OK and 404 Not Found are written using MockMvc.
-- The controller returns a Book or throws a custom BookNotFoundException.
-- Spring REST Docs can be added to document the endpoints further.
